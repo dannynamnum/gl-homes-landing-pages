@@ -53,8 +53,6 @@ img, object, embed, video {
 	clear: none;
 	float: none;
 }
-#div1 {
-}
 .zeroMargin_mobile {
     margin-left: 0;
 }
@@ -73,8 +71,6 @@ img, object, embed, video {
 	clear: none;
 	float: none;
 	margin-left: auto;
-}
-#div1 {
 }
 .zeroMargin_tablet {
     margin-left: 0;
@@ -97,8 +93,6 @@ img, object, embed, video {
 	clear: none;
 	float: none;
 	margin-left: auto;
-}
-#div1 {
 }
 .zeroMargin_desktop {
     margin-left: 0;
